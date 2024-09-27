@@ -13,7 +13,7 @@
 
 - 🤝 I am looking for help with **create projects**
 
-- 💬 Ask me about **programing**
+- 💬 Ask me about **programing and technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
