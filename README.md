@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakariaayad1" alt="zakariaayad1"  /></a> </p>
 
-- 🔭 I’m currently working on **my simple porfolio**
+- 🔭 I’m currently working on **my porfolio**
 
 - 🌱 I’m currently learning **New technology in computer science**
 
