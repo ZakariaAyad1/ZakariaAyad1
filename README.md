@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my porfolio**
 
-- 🌱 I’m currently learning **New technology in computer science**
+- 🌱 I’m currently learning **New technology in the field of computer science**
 
 - 👯 I’m looking to collaborate on **projects**
 
