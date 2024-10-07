@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 🤝 I am looking for help with **create projects**
+- 🤝 I am looking for help with **create projects **
 
 - 💬 You can ask me about **programing and technologies 🛜**
 
