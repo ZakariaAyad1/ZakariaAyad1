@@ -1,70 +1,29 @@
-# 👋 Hi, I'm Zakaria Ayad
+<h1 align="center">Welcome 👋😊, I am Zakaria AYAD   </h1>
+<h3 align="center">A highly driven 4th-year Computer Science engineering student at ENSA Tetouan, North of Morocco, with a deep passion for technology and innovation.</h3>
 
-🎓 **4th-Year Computer Engineering Student** at ENSA Tétouan (Morocco)  
-🔍 **Seeking a 2+ month internship** in IT/Software Development  
-🌐 Passionate about **full-stack development, cloud technologies, and collaborative problem-solving**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariaayad1&label=Profile%20views&color=0e75b6&style=flat" alt="zakariaayad1" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakariaayad1" alt="zakariaayad1"  /></a> </p>
 
-## 🛠️ Technical Skills
+- 🔭 I’m currently working on **my porfolio 📂**
 
-### **Programming & Frameworks**
-`Java` `JavaScript` `TypeScript` `Python` `PHP` `C`  
-`Spring Boot` `Laravel` `Angular` `Flask` `Streamlit` `JavaFX`
+- 🌱 I’m currently learning **New technology in the field of computer science**
 
-### **Databases & Modeling**
-`SQL` `MySQL` `MongoDB` `OracleDBA` `PL/SQL`  
-`Merise` `UML` `Design Patterns`
+- 👯 I’m looking to collaborate on **projects**
 
-### **DevOps & Cloud**
-`Docker` `GitHub Actions` `AWS` `Linux/Shell Scripting`  
-`CI/CD Pipelines` `Networking (Cisco Packet Tracer)`
+- 🤝 I am looking for help with **create projects **
 
-### **Web & Tools**
-`HTML/CSS` `XML/JSON/YAML` `Postman` `Git/GitHub`  
-`Jira` `Trello` `Agile/Scrum` `Figma`
+- 💬 You can ask me about **programing and technologies 🛜**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/zakaria ayad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria ayad" height="30" width="40" /></a>
+</p>
 
-## 💼 Professional Experience
 
-### **Intern @ Veolia** (July 2024)  
-- Migrated CSV data to a SQL database + built a UI for efficient data management.  
-- **Tech:** Python, JavaScript, SQL, Git, Excel  
 
-### **Intern @ Technohack** (Jan 2024)  
-- Developed interactive web tools (currency converter, task manager).  
-- **Tech:** HTML/CSS, JavaScript, Git, PowerShell  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaayad1&show_icons=true&locale=en&layout=compact" alt="zakariaayad1" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariaayad1&show_icons=true&locale=en" alt="zakariaayad1" /></p>
 
-## 🎓 Academic Projects
-
-| Project | Description | Tools |
-|---------|-------------|-------|
-| **Rental Management Platform** | Full-stack system for object rentals (bookings, deliveries, reviews) | Laravel, Trello, Figma |
-| **E-Billing App** | Automated electricity bill management with complaint tracking | PHP, JS, Trello |
-| **Airport Control System** | Optimized air traffic flow and permissions | Java, Sockets |
-| **E-Learning Platform** | Course management portal for students/teachers | Spring Boot, Angular |
-
----
-
-## 📜 Certifications
-- **AWS Cloud Essentials** (Amazon Web Services)  
-- **Java Programming** (amigoCode)  
-- **Responsive Web Design** (FreeCodeCamp)  
-
----
-
-## 🌍 Languages
-- Arabic (Native)  
-- English (B2) | French (B2) | Spanish (A1)  
-
----
-
-📫 **Let’s connect!**  
-✉️ [zakariaayad27@gmail.com](mailto:zakariaayad27@gmail.com)  
-📞 +212 639389058  
-🔗 [GitHub Profile](https://github.com/ZakariaAyad1) *(customize link if needed)*  
-
-⚡ **Fun fact:** I love diving into tech docs and international YouTube tutorials to stay updated!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakariaayad1&" alt="zakariaayad1" /></p>
