@@ -21,6 +21,30 @@
 <a href="https://linkedin.com/in/zakaria ayad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria ayad" height="30" width="40" /></a>
 </p>
 
+### 🛠️ Tech Stack
+
+**🌐 Frontend:**  
+Angular, HTML, CSS, JavaScript, TypeScript  
+
+**⚙️ Backend:**  
+Spring Boot, Laravel, Flask, Java, PHP, Python  
+
+**📊 Databases:**  
+MySQL, MongoDB, OracleDBA, SQL, PL/SQL  
+
+**☁️ Cloud & DevOps:**  
+AWS, Docker, GitHub Actions, CI/CD  
+
+**🛠️ Tools:**  
+Git, Jira, Trello, Postman, Cisco Packet Tracer  
+
+**📜 Modeling:**  
+UML, Merise  
+
+**💡 Others:**  
+Agile/Scrum, Design Patterns, Shell Scripting, Machine Learning (Basics)  
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaayad1&show_icons=true&locale=en&layout=compact" alt="zakariaayad1" /></p>
