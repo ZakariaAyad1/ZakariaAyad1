@@ -1,4 +1,5 @@
-<h1 align="center">✨🌈 <strong><span style="color:#FF61F6">Z</span><span style="color:#F79E02">a</span><span style="color:#F5D300">k</span><span style="color:#00C853">a</span><span style="color:#00B0FF">r</span><span style="color:#6200EA">i</span><span style="color:#FF61F6">a</span> AYAD 🌈✨</strong></h1>
+<h1 align="center">Welcome 👋😊, I am Zakaria AYAD   </h1>
+
 <h3 align="center">A highly driven 4th-year Computer Science engineering student at ENSA Tetouan, North of Morocco, with a deep passion for technology and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariaayad1&label=Profile%20views&color=0e75b6&style=flat" alt="zakariaayad1" /> </p>
