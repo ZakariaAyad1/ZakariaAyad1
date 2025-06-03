@@ -1,5 +1,14 @@
 <h1 align="center">Welcome 👋😊, I am Zakaria AYAD   </h1>
 
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Md123etplus/Md123etplus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Md123etplus/Md123etplus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![](https://komarev.com/ghpvc/?username=Md123etplus)
+
+
+
+
 <h3 align="center">A highly driven 4th-year Computer Science engineering student at ENSA Tetouan, North of Morocco, with a deep passion for technology and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariaayad1&label=Profile%20views&color=0e75b6&style=flat" alt="zakariaayad1" /> </p>
