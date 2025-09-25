@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **New technology in the field of computer science engineering **
 
-- 👯 I’m looking to collaborate on **projects**
+- 👯 I’m looking for a team to collaborate on **projects**
 
 - 🤝 I am looking for help with **create projects **
 
