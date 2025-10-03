@@ -4,8 +4,7 @@
 
 
 
-<h3 align="center">seeking a PFE 2026 (pre-hiring 'pré-embauche') starting from
- 2026</h3>
+<h3 align="center">seeking a PFE 2026 (pre-hiring 'pré-embauche') starting from February 2026</h3>
 
 
 <h3 align="center">A highly driven 5th-year Computer Science engineering student at ENSA Tetouan, North of Morocco, with a deep passion for technology and innovation, currently seeking a PFE (Final Year Project) opportunity to apply and expand my skills in real-world challenges.</h3>
