@@ -4,9 +4,9 @@
 
 
 
-<h3 align="center">seeking a PFE 2026 (pre-hiring 'pré-embauche') starting from February 2026
+<h3 align="center">seeking a PFE 2026 (pre-hiring 'pré-embauche') starting from February 2026 
 
-(SIAD) State Engineer .</h3>
+(SIAD) State Engineer</h3>
  
 <h3 align="center">java js ts cloud</h3>
 
