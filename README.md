@@ -3,25 +3,66 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Software+Engineer+Student;Microservices+Architect;Deep+Learning+Specialist;Agentic+AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Microservices+Architect;Agentic+AI+Developer;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Tetouan%2C%20Morocco-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Education-ENSA%20Tetouan-E34F26?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-</p>
 
 ---
 
-### 📊 GitHub Analytics (Animated)
+### 🛠️ Core Engineering Stack
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🍃 Spring & Microservices</h4>
+      <img src="https://skillicons.dev/icons?i=spring,java,maven,kafka,rabbitmq,redis,postgres,mongodb" /><br/>
+      <sub>Service Discovery, Gateway, Config Server, Circuit Breaker (Resilience4j)</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Agentic AI & Intelligence</h4>
+      <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi" />
+      <br/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+      <img src="https://img.shields.io/badge/CrewAI-Agentic_AI-red?style=flat-square" />
+      <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>♾️ DevOps & Infrastructure</h4>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,ansible,terraform" /><br/>
+      <sub>CI/CD Pipelines, IaC, Orchestration</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 Observability & Cloud</h4>
+      <img src="https://skillicons.dev/icons?i=prometheus,grafana,aws,azure,linux,nginx" /><br/>
+      <sub>Distributed Tracing, Metrics, Cloud Deployment</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧠 Strategic Focus
+- **Agentic Orchestration:** Developing autonomous multi-agent systems using **CrewAI** and **LangChain**.
+- **Distributed Resilience:** Implementing **Event-Driven** architectures with Spring Cloud and Apache Kafka.
+- **Cloud-Native DevOps:** Automating deployment lifecycles with **Kubernetes** and **GitHub Actions**.
+
+
+
+### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Zakaria's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="Zakaria's Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Streak Stats" height="180" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Streak Stats" />
-</div>
+---
+
+<h3 align="center">Let's build something intelligent.</h3>
+<p align="center">
+<a href="https://linkedin.com/in/zakaria-ayad" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
 <details open>
 <summary><h3>🏗️ Microservices & Spring Ecosystem</h3></summary>
 <div align="center">
