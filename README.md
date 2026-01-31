@@ -1,22 +1,27 @@
-<h1 align="center">Welcome 👋😊, I am Zakaria AYAD   </h1>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:3776AB&height=200&section=header&text=Zakaria%20AYAD&fontSize=70&animation=fadeIn" width="100%"/>
+</h1>
 
- 
-<h3 align="center">A highly driven 5th-year Computer Science engineering student at ENSA Tetouan, North of Morocco, with a deep passion for technology and innovation</h3>
-
-<h5 align="center">Send message so we can collaborate on real projects.</h5>
-
-
-
-
-<!-- TECH STACK SECTION -->
 <div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40">
-    Tech Stack
-  </h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Software+Engineer+Student;Microservices+Architect;Deep+Learning+Specialist;Agentic+AI+Developer" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Tetouan%2C%20Morocco-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-ENSA%20Tetouan-E34F26?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+</p>
 
+---
+
+### 📊 GitHub Analytics (Animated)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Zakaria's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Streak Stats" />
+</div>
 <details open>
 <summary><h3>🏗️ Microservices & Spring Ecosystem</h3></summary>
 <div align="center">
