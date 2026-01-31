@@ -14,38 +14,37 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🍃 Spring & Microservices</h4>
-      <img src="https://skillicons.dev/icons?i=spring,java,maven,kafka,rabbitmq,redis,postgres,mongodb" /><br/>
-      <sub>Service Discovery, Gateway, Config Server, Circuit Breaker (Resilience4j)</sub>
+      <img src="https://skillicons.dev/icons?i=spring,java,kafka,rabbitmq,redis,postgres,mongodb" /><br/>
+      <sub>Service Discovery, API Gateway, Resilience4j, Spring AI</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 Agentic AI & Intelligence</h4>
-      <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi" />
-      <br/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-      <img src="https://img.shields.io/badge/CrewAI-Agentic_AI-red?style=flat-square" />
-      <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+      <h4>🎨 Frontend & Architecture</h4>
+      <img src="https://skillicons.dev/icons?i=angular,ts,rxjs,html,css,tailwind,figma" /><br/>
+      <sub>State Management (NgRx), RxJS Observables, Modular Design</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>♾️ DevOps & Infrastructure</h4>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,ansible,terraform" /><br/>
-      <sub>CI/CD Pipelines, IaC, Orchestration</sub>
+      <h4>🤖 Agentic AI & Orchestration</h4>
+      <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi" />
+      <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white" /><br/>
+      <sub>LangChain, CrewAI, Event-Driven Logic with Node-RED</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>📈 Observability & Cloud</h4>
-      <img src="https://skillicons.dev/icons?i=prometheus,grafana,aws,azure,linux,nginx" /><br/>
-      <sub>Distributed Tracing, Metrics, Cloud Deployment</sub>
+      <h4>♾️ DevOps & Infrastructure</h4>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,terraform,aws" /><br/>
+      <sub>CI/CD Pipelines, IaC, Cloud-Native Deployment</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🧠 Strategic Focus
-- **Agentic Orchestration:** Developing autonomous multi-agent systems using **CrewAI** and **LangChain**.
-- **Distributed Resilience:** Implementing **Event-Driven** architectures with Spring Cloud and Apache Kafka.
-- **Cloud-Native DevOps:** Automating deployment lifecycles with **Kubernetes** and **GitHub Actions**.
+### 🧠 Strategic Focus & Patterns
+- **Software Design Patterns:** Expert implementation of **Creational (Singleton, Factory)**, **Structural (Adapter, Proxy)**, and **Behavioral (Observer, Strategy)** patterns in clean code environments.
+- **Frontend Excellence:** Building scalable Single Page Applications (SPAs) using **Angular** with a focus on component-based architecture and lazy loading.
+- **Low-Code Orchestration:** Utilizing **Node-RED** to bridge the gap between hardware/IoT, API endpoints, and Agentic AI workflows.
+- **Microservices Integrity:** Applying **Saga**, **CQRS**, and **Event Sourcing** patterns to ensure data consistency in distributed systems.
 
 
 
